@@ -1,5 +1,5 @@
-name: Example
+name: WebScamDetector
 version: 1.0.0
-main: "harryc47/example/Example"
-api: ["1.0.0-beta4"]
+main: "harryc47/WebScamDetector/Loader"
+api: [1.0.1]
 author: "harryc47"
